@@ -1,0 +1,18 @@
+.contaner {
+  position: relative;
+  cursor: none; /* hide default cursor */
+  height: 100vw;
+}
+
+#cursor {
+  position: fixed;
+
+  /* custom cursor */
+  width: 32px;
+  height: 32px;
+  background: #ff0000;
+  border: 2px solid #ffffff;
+  border-radius: 16px 16px 16px 0px;
+  margin: -26px 0 0 8px;
+  box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.5);
+}
