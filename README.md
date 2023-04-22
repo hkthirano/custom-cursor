@@ -1,5 +1,7 @@
 # CustomCursor
 
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-h7no5w?file=src%2Fapp%2Fmethod1%2Fmethod1.component.ts)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
 ## Development server
